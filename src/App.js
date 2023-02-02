@@ -5,7 +5,7 @@ const App = () => {
   return (
     <>
       <section>
-        <AllUsersList/>
+        <Name/>
         
       </section>
     </>  

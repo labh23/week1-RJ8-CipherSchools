@@ -36,10 +36,10 @@ import UserDetails from "./UserDetails";
 //     }
 // }
 
-const AllUserList = () => {
+const AllUsersLists = () => {
     let [state, setState] = useState({ name: "Priyanshu Sexena" });
 
     return <h1>The name is {state.name}</h1>;
     
 };
-export default AllUsersList;
+export default AllUsersLists;
